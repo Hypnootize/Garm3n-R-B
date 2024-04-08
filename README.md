@@ -1,6 +1,6 @@
 <div align="center">
 
-# Garm3n-R-B 
+# Garm3n R-B 
 ### By Garm3n
 
 **[SCREENSHOTS](../screenshots/showcase.md)** -
